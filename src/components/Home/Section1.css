@@ -1,0 +1,68 @@
+.home-page{
+    background-color: #3265C9;
+    
+}
+.image-section{
+    background: url("../../images/home\ banner.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.heading{
+    font-family: 'Playfair Display', serif;
+    font-size:3em;
+}
+
+.bold-ubuntu{
+    font-family:"Ubuntu";
+    font-weight:bold;
+}
+.price{
+    font-size: 1.5em;
+}
+.orange-c{
+color:#EB680D
+}
+.white-c{
+    color:white;
+}
+.black-c{
+    color:black;
+}
+p{
+    font-family: 'Ubuntu';
+}
+.container-1{
+    background: rgba(27, 27, 27, 0.5);
+    backdrop-filter: blur(5px);
+    position:absolute;
+    width:40%;
+    margin:5% 10%;
+    padding:1% 5%;
+    }
+
+.row{
+    
+}
+.bluebutton{
+    padding:1.5% 5%;
+    background-color: #3265C9;
+    font-family: 'Ubuntu';
+    color:white;
+    outline: none;
+    border:none;
+    border-radius: 5px;
+    font-size: .9em;
+}
+.whitebutton{
+    padding:1.5% 5%;
+    background-color: #fff;
+    font-family: 'Ubuntu';
+    color:#3265C9;
+    outline: none;
+    border:none;
+    border-radius: 5px;
+    font-size: .9em;
+}

@@ -1,0 +1,48 @@
+.section3{
+ 
+}
+.section3-img{
+    position:absolute;
+    width:100%;
+    height:100%;
+    z-index:-1;
+    left:0
+}
+.section3-img-2{
+}
+
+.col1{
+margin:5%;
+}
+
+.sub-heading-s3{
+    margin-top: 30%;
+    font-weight: 500;
+}
+.para-s3{
+    margin:5% 0;
+}
+
+.col2{
+    text-align:right;
+}
+
+.bluesection{
+    position: absolute;
+    width: 1116px;
+    height: 617.99px;
+    left: 0px;
+    top: 1588.01px;
+    
+    background: #C4C4C4;
+}
+.ssecond{
+    position: absolute;
+width: 683px;
+height: 105.66px;
+left: 1116px;
+top: 2198.9px;
+
+background: #DC4F4F;
+transform: rotate(-180deg);
+}
