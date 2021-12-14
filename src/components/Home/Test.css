@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,700&display=swap');
+.test{
+    font-weight: 600;
+    color: red;
+    font-size: 20px; 
+    font-family: 'Open Sans', sans-serif;
+}
+.heading_test{
+    font-size: 4rem;
+    
+    
+}
+.headin_test::after{
+    content: "";
+    position: absolute;
+    width: 30%;
+    height: 1px;
+    bottom: 0;
+    left: 0;
+    border-bottom: 3px solid #ff5533;
+    right: 0;
+    margin: 0 auto;
+    top: 43rem
+}
+.test_text{
+    margin-left: 107px;
+    font-size: 1rem;
+    font-weight: 500;
+    color: gray;
+}
+.quets_img{
+    position: absolute;
+    z-index: -1;
+}
+.jhon{
+    padding: 5rem 0 0 0;
+}
+.number{
+    margin-left: 65rem;
+    display: flex;
+   
+}
+h5{
+    padding: 5px;
+}

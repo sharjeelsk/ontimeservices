@@ -1,10 +1,22 @@
 .header-main{
     background-color:#3265C9;
     padding:1% 0;
+
 }
 .h5{
     text-align:center;
-    margin:auto;
+    margin-top: -2%;
     color:white;
     
+}
+.NavLink{
+    margin-left: 80%;
+    margin-top: -4%;
+    padding: auto;
+    color:white;
+   
+   
+}
+.Nav.Link{
+    color:white;
 }

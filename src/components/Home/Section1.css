@@ -3,7 +3,7 @@
     
 }
 .image-section{
-    background: url("../../images/home\ banner.png");
+     background: url("../../images/home\ banner.png"); 
     background-repeat: no-repeat;
     background-size:cover;
     height: 100vh;
@@ -27,6 +27,7 @@ color:#EB680D
 }
 .white-c{
     color:white;
+    font-size: 58px;
 }
 .black-c{
     color:black;
@@ -46,6 +47,7 @@ p{
 .row{
     
 }
+
 .bluebutton{
     padding:1.5% 5%;
     background-color: #3265C9;
@@ -65,4 +67,16 @@ p{
     border:none;
     border-radius: 5px;
     font-size: .9em;
+}
+.p1{
+    color: #e62e00;
+    margin-bottom: -25px;
+    font-size: 18px;
+    margin-left: -1rem;
+    padding: 1rem;
+
+}
+.p2{
+    color: white;
+    
 }
